@@ -1,5 +1,6 @@
-#APIProject
-This application connects to the API https://anapioficeandfire.com/. It has the following features:
+# APIProject
+This application connects to the API https://anapioficeandfire.com/.
+It has the following features:
 
     - The possiblity of looking up a character by a numberand displaying basic info for that character.
     - Optionally allow the user to display the names of all sworn members of the previous characters house.
